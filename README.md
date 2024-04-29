@@ -84,6 +84,7 @@ Note that, for now it only supports following crops
 ## How to run locally 🛠️
 - Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
 - Clone the complete project with `git clone https://github.com/Gladiator07/Harvestify.git` or you can just download the code and unzip it
+- Decompress the plant_disease_model.zip files to plant_disease_model.pth files and keep them in same folder
 - **Note:** The master branch doesn't have the updated code used for deployment, to download the updated code used for deployment you can use the following command
   ```
   ❯ git clone -b deploy https://github.com/Gladiator07/Harvestify.git 
